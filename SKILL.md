@@ -79,7 +79,7 @@ Token 过期后调用会返回 401 或 403 错误。更新方法：重新申请 
 ### 命令行调用示例
 
 ```bash
-   python .claude/skills/sugon-scnet-ocr/scripts/main.py VAT_INVOICE /path/to/invoice.jpg
+   python .claude/skills/sugon-scnet-ocr/scripts/main.py BUSINESS_LICENSE /path/to/invoice.jpg
 ```
 
 ### 在 AI 对话中使用
